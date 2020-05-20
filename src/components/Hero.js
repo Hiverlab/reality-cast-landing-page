@@ -21,7 +21,7 @@ export default class Hero extends Component {
                                 <div className="col-md-10">
 
                                     
-                                    <h3 id="title" className="display-6 white-text pt-5 mb-2">L YOUR REALITY, ANYWHERE.</h3>
+                                    <h3 id="title" className="display-6 white-text pt-5 mb-2">LAUNCH YOUR REALITY, ANYWHERE.</h3>
 
                                 
                                     {/* <hr className="hr-light"></hr> */}
