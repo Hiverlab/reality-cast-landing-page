@@ -12,7 +12,7 @@ export default class Features extends Component {
 
                     <div className="col-sm-6 mb-5">
                         <video width="260" height="193"  autoPlay muted loop playsInline>
-                            <source src="https://github.com/Hiverlab/reality-cast-landing-page/blob/master/public/images/first.mp4" type="video/mp4"/>
+                            <source src="https://github.com/Hiverlab/reality-cast-landing-page/blob/master/public/images/2d%20to%20ar.mp4" type="video/mp4"/>
                         </video>
                         {/* <img className="image-fluid" src="/images/graph.png" width="193" height="193" alt=""/> */}
                         <h4 className="item-title my-4 font-weight-bold">Easily turn 2D into AR</h4>

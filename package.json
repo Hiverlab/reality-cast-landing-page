@@ -1,7 +1,7 @@
 {
   "name": "landing-page-3.0",
   "version": "0.1.0",
-  "homepage": "http://loycatherine.github.io/landing-page",
+  "homepage": "http://hiverlab.github.io/reality-cast-landing-page",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
