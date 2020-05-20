@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/reality-cast-landing-page/precache-manifest.fe087a2ea1f952c1447d6a31bd05401b.js"
+  "/reality-cast-landing-page/precache-manifest.37e754c5078cf1321c100bf8676cab1b.js"
 );
 
 self.addEventListener('message', (event) => {

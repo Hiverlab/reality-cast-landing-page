@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/reality-cast-landing-page/static/css/main.022f897b.chunk.css",
+    "main.css": "/reality-cast-landing-page/static/css/main.58c7ed75.chunk.css",
     "main.js": "/reality-cast-landing-page/static/js/main.05586399.chunk.js",
     "main.js.map": "/reality-cast-landing-page/static/js/main.05586399.chunk.js.map",
     "runtime-main.js": "/reality-cast-landing-page/static/js/runtime-main.fc2883a0.js",
@@ -9,10 +9,10 @@
     "static/js/2.3121c06f.chunk.js": "/reality-cast-landing-page/static/js/2.3121c06f.chunk.js",
     "static/js/2.3121c06f.chunk.js.map": "/reality-cast-landing-page/static/js/2.3121c06f.chunk.js.map",
     "index.html": "/reality-cast-landing-page/index.html",
-    "precache-manifest.fe087a2ea1f952c1447d6a31bd05401b.js": "/reality-cast-landing-page/precache-manifest.fe087a2ea1f952c1447d6a31bd05401b.js",
+    "precache-manifest.37e754c5078cf1321c100bf8676cab1b.js": "/reality-cast-landing-page/precache-manifest.37e754c5078cf1321c100bf8676cab1b.js",
     "service-worker.js": "/reality-cast-landing-page/service-worker.js",
     "static/css/2.c0de73ea.chunk.css.map": "/reality-cast-landing-page/static/css/2.c0de73ea.chunk.css.map",
-    "static/css/main.022f897b.chunk.css.map": "/reality-cast-landing-page/static/css/main.022f897b.chunk.css.map",
+    "static/css/main.58c7ed75.chunk.css.map": "/reality-cast-landing-page/static/css/main.58c7ed75.chunk.css.map",
     "static/js/2.3121c06f.chunk.js.LICENSE.txt": "/reality-cast-landing-page/static/js/2.3121c06f.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/reality-cast-landing-page/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/reality-cast-landing-page/static/media/fa-solid-900.ec763292.svg"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.fc2883a0.js",
     "static/css/2.c0de73ea.chunk.css",
     "static/js/2.3121c06f.chunk.js",
-    "static/css/main.022f897b.chunk.css",
+    "static/css/main.58c7ed75.chunk.css",
     "static/js/main.05586399.chunk.js"
   ]
 }
