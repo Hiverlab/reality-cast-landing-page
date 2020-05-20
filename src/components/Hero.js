@@ -11,7 +11,7 @@ export default class Hero extends Component {
             <div id="intro" className="view">
                 <div className="embed-responsive video-background-container">
                     <video id="video" autoPlay muted loop playsInline>
-                        <source src="public/images/Microsoft HoloLens 2 Trailer.mp4" type="video/mp4"/>
+                        <source src="https://github.com/Hiverlab/reality-cast-landing-page/master/public/images/Microsoft%20HoloLens%202%20Trailer.mp4?raw=true" type="video/mp4"/>
                     </video>
                     <div id="words" className="text-overlay">
                         <div className="container-fluid d-flex align-items-center justify-content-center">
