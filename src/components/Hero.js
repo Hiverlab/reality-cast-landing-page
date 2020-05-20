@@ -10,9 +10,10 @@ export default class Hero extends Component {
         return (
             <div id="intro" className="view">
                 <div className="embed-responsive video-background-container">
-                    <video id="video" autoPlay muted loop playsInline>
+                    {/* <video id="video" autoPlay muted loop playsInline>
                         <source src="https://github.com/Hiverlab/reality-cast-landing-page/blob/master/public/images/Microsoft%20HoloLens%202%20Trailer.mp4" type="video/mp4"/>
-                    </video>
+                    </video> */}
+                    <div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/rhbqo7?autoplay=1" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
                     <div id="words" className="text-overlay">
                         <div className="container-fluid d-flex align-items-center justify-content-center">
 
