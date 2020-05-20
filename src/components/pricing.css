@@ -1,0 +1,83 @@
+#pricing-title {
+    font: Medium 68px/62px Futura PT;
+    letter-spacing: 0px;
+    color: #4D4D4D;
+    opacity: 1;
+}
+
+.card-body {
+    padding-top: 30px;
+}
+
+.card-body-first {
+    padding-top: 40px;
+}
+
+
+.description {
+    padding-top: 90px;
+}
+
+.pricing-box {
+    margin: 5px;
+    top: 4751px;
+    left: 877px;
+    width: 352px;
+    height: 500px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 20px #0000001D;
+    border: 1px solid #F4F4F4;
+    border-radius: 24px;
+    opacity: 1;
+}
+
+.pricing-container {
+    padding-top: 10px; 
+}
+
+.pricing-header {
+    font-size: 30px;
+}
+
+.price {
+    font-size: 55px;
+    font: Medium 55px/71px Futura PT;
+} 
+
+.duration {
+    font-size: 20px;
+    opacity: 0.4;
+}
+
+.projects {
+    font-size: 20px;
+    opacity: 0.5;
+} 
+
+/* .pricing-button {
+    margin: 50px;
+} */
+
+#pricing-button {
+    margin-top: 25px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 1px solid;
+    border-color: #FCB42D;
+    color: #FCB42D;
+    font-size: 20px;
+    cursor:pointer;
+    overflow: hidden;
+    width: 160px;
+    height: 45px;
+}
+
+#pricing-button:hover {
+    border: 1px solid;
+    background-color: #FCB42D;
+    border-color: #FCB42D;
+    color: black;
+    box-shadow: 0px 3px 20px #0000001D;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}

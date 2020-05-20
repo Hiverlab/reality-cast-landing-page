@@ -1,0 +1,42 @@
+.image-container {
+    padding-top: 60px;
+}
+
+.break {
+    padding: 70px;
+}
+
+.icon-shadow {
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 3px 20px #0000001D;
+    border: 1px solid #F4F4F4;
+    border-radius: 35px;
+    opacity: 1;
+}
+
+.features-title {
+    font: Medium 68px/83px Futura PT;
+    letter-spacing: 0px;
+    color: #4D4D4D;
+    opacity: 1;
+}
+
+.item-title {
+    font: Medium 24px/29px Futura PT;
+    letter-spacing: 0px;
+    color: #000000;
+}
+
+.item-description {
+    font-size: 18px;
+    font-weight: 400 !important;
+    letter-spacing: 0px;
+    color: #000000;
+}
+
+.sub-title {
+    font: Medium 50px/64px Futura PT;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}

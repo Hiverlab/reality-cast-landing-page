@@ -1,0 +1,30 @@
+#move-down {
+    /* margin-top: 8px; */
+    color: white;
+    font-size: 17px;
+    /* font: Medium 22px/29px Futura PT; */
+}
+
+#navbar-button {
+    margin-top: 5px;
+    margin-left: 5px;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 1px solid;
+    border-color: white;
+    color: white;
+    font-size: 17px;
+    cursor:pointer;
+    overflow: hidden;
+    height: 30px;
+}
+
+#navbar-button:hover {
+    border: 1px solid;
+    background-color: #FDD344;
+    border-color: #FDD344;
+    color: white;
+    box-shadow: 0px 3px 20px #0000001D;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}

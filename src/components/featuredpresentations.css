@@ -1,0 +1,112 @@
+.feature-title {
+    font: Medium 37px/45px Futura PT;
+letter-spacing: 0px;
+color: #4D4D4D;
+opacity: 1;
+}
+
+.presentations:hover .overlay{
+    background:rgba(0,0,0,0.6);
+    opacity:0;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+/* .presentations:hover:after {
+    opacity:1;
+} */
+#image-button { 
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 1px solid;
+    border-color: white;
+    color: white;
+    font-size: 17px;
+    cursor:pointer;
+    overflow: hidden;
+    height: 30px;
+    border-radius: 50%;
+}
+
+#image-button:hover {
+    border: 1px solid;
+    background-color: transparent;
+    border-color: #FDD344;
+    color: #FDD344;
+    box-shadow: 0px 3px 20px #0000001D;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+
+/* Container needed to position the button. Adjust the width as needed */
+.container-image {
+    position: relative;
+    /* width: 50%; */
+  }
+
+.btn-circle {
+    width: 70px;
+    height: 70px;
+    padding: 10px 16px;
+    border-radius: 35px;
+    font-size: 24px;
+    line-height: 1.33;
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 3px solid;
+    border-color: white;
+    color: white;
+    cursor:pointer;
+    overflow: hidden;
+    box-shadow: 0px 3px 20px #0000001D;
+} 
+
+.btn-circle #feature-icon{
+    padding-left: 5px;
+}
+
+.btn-circle:hover {
+    border: 3px solid;
+    background-color: transparent;
+    border-color: #FDD344;
+    color: #FDD344;
+    box-shadow: 0px 3px 20px #0000001D;
+    transition: all 0.5s;
+    -webkit-transition: all 0.5s;
+}
+  
+  /* Style the button and place it in the middle of the container/image */
+  /* .container-image .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    /* background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 1px solid;
+    border-color: white;
+    color: white;
+    font-size: 17px;
+    cursor:pointer;
+    overflow: hidden;
+    width: 10%;
+    border-radius: 50%; 
+    height: 80px;
+    line-height: 80px;  
+    width: 80px;  
+    font-size: 2em;
+    font-weight: bold;
+    border-radius: 50%;
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  .container-image .btn:hover {
+    background-color: black;
+  } */
+
+/* .container-image:hover .btn{
+    background-color: black;
+} */
