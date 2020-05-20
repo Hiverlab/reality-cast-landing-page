@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "166fb91441a19651b9a2a068106c0b5e",
+    "revision": "9e837658d40c3d176e61ac31f5a77e7c",
     "url": "/reality-cast-landing-page/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reality-cast-landing-page/static/css/2.c0de73ea.chunk.css"
   },
   {
-    "revision": "8cb38c7c21dc8447cf7f",
-    "url": "/reality-cast-landing-page/static/css/main.293f7cf3.chunk.css"
+    "revision": "12b1e32bad53a6c9e486",
+    "url": "/reality-cast-landing-page/static/css/main.177315a4.chunk.css"
   },
   {
     "revision": "cbeb2bb7d62e7667ed0a",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/reality-cast-landing-page/static/js/2.3121c06f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8cb38c7c21dc8447cf7f",
+    "revision": "12b1e32bad53a6c9e486",
     "url": "/reality-cast-landing-page/static/js/main.5ea6b6ee.chunk.js"
   },
   {
