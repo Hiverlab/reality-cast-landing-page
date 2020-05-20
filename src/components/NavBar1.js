@@ -31,7 +31,7 @@ class NavBar extends React.Component {
                 <a href="#intro">
                 <MDBNavbarBrand>
                   <strong>
-                    <img src="/images/logo.png" height="50px" width="130px" alt=""/>
+                    <img src="https://raw.githubusercontent.com/Hiverlab/reality-cast-landing-page/master/public/images/logo.png?token=AMBYZPV4VS26XBERFMA5X4C6YS474" height="50px" width="130px" alt=""/>
                   </strong>
                 </MDBNavbarBrand>
                 </a>

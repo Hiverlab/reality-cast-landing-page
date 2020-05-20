@@ -17,7 +17,7 @@ header,
 }
 
 .bg {
-  background-image: url('/images/bg.png');
+  background-image: url('https://raw.githubusercontent.com/Hiverlab/reality-cast-landing-page/master/public/images/bg.png?token=AMBYZPWNWJ2FUJAQ5CUB5726YS5SA');
   background-size: cover;
 }
 

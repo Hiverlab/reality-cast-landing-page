@@ -10,7 +10,7 @@ export default class Pricing1 extends Component {
                 <div className="row justify-content-center">
                     <div className="pricing-box">
                         <div className="pricing-container">
-                            <img src="/images/free.png" width="98px" height="98px" alt=""/>
+                            <img src="https://raw.githubusercontent.com/Hiverlab/reality-cast-landing-page/master/public/images/free.png?token=AMBYZPUECPLOHFPARAZSCBK6YS5PU" width="98px" height="98px" alt=""/>
                             <p className="pricing-header">Free</p>
                             <p className="price">$0</p>
                             <p className="duration">forever</p>
@@ -22,7 +22,7 @@ export default class Pricing1 extends Component {
                     </div>
                     <div className="pricing-box">
                         <div className="pricing-container">
-                            <img src="/images/regular.png" width="98px" height="98px" alt=""/>
+                            <img src="https://raw.githubusercontent.com/Hiverlab/reality-cast-landing-page/master/public/images/regular.png?token=AMBYZPRJNOTB7RDE575FCHK6YS5OQ" width="98px" height="98px" alt=""/>
                             <p className="pricing-header">Regular Presenter</p>
                             <p className="price">$10</p>
                             <p className="duration">Per month</p>
@@ -34,7 +34,7 @@ export default class Pricing1 extends Component {
                     </div>
                     <div className="pricing-box">
                         <div className="pricing-container">
-                            <img src="/images/active.png" width="98px" height="98px" alt=""/>
+                            <img src="https://raw.githubusercontent.com/Hiverlab/reality-cast-landing-page/master/public/images/active.png?token=AMBYZPVG5JFMKFSJWWWRRVC6YS5Q6" width="98px" height="98px" alt=""/>
                             <p className="pricing-header">Active Presenter</p>
                             <p className="price">$20</p>
                             <p className="duration">Per month</p>
