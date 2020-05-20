@@ -1,12 +1,10 @@
-html {
-  scroll-behavior: smooth;
-}
-
 html,
 body,
 header,
 #intro {
     height: 100%;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
 } 
 
 #pricing,
