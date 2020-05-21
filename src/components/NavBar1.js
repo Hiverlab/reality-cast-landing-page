@@ -37,10 +37,10 @@ class NavBar extends React.Component {
                 {!this.state.isWideEnough && <MDBNavbarToggler onClick={this.onClick} />}
                 <MDBCollapse isOpen={this.state.collapse} navbar>
                   <MDBNavbarNav right>
-                    <Link to="/reality-cast-landing-page">
+                    <Link to="/">
                       <Nav.Link id="move-down">Home</Nav.Link>
                     </Link>
-                    <Link to="/reality-cast-landing-page/tutorial">
+                    <Link to="/tutorial">
                       <Nav.Link id="move-down">Tutorial</Nav.Link>
                     </Link>
                         

@@ -21,8 +21,8 @@ function App() {
         <div>
           <Switch>
           <NavBar/>
-            <Route exact path="/reality-cast-landing-page/" component={Home} />
-            <Route exact path="/reality-cast-landing-page/tutorial" component={Tutorial} />
+            <Route exact path="/" component={Home} />
+            <Route exact path="/tutorial" component={Tutorial} />
           </Switch>
         </div>
       </Router>
