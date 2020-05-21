@@ -10,7 +10,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import 'bootstrap-css-only/css/bootstrap.min.css';
 import 'mdbreact/dist/css/mdb.css';
 import NavBar from './components/NavBar1.js'
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import Home from './components/Home.js'
 import Tutorial from './components/Tutorial.js'
 
@@ -19,9 +19,11 @@ function App() {
     <div className="App">
       <Router>
         <div>
+          <Switch>
           <NavBar/>
-          <Route exact path="/reality-cast-landing-page/" component={Home} />
-          <Route exact path="/reality-cast-landing-page/tutorial" component={Tutorial} />
+            <Route exact path="/reality-cast-landing-page/" component={Home} />
+            <Route exact path="/reality-cast-landing-page/tutorial" component={Tutorial} />
+          </Switch>
         </div>
       </Router>
     </div>
