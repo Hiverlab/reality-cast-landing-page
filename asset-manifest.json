@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/reality-cast-landing-page/static/css/main.aca31963.chunk.css",
-    "main.js": "/reality-cast-landing-page/static/js/main.ba35ecd9.chunk.js",
-    "main.js.map": "/reality-cast-landing-page/static/js/main.ba35ecd9.chunk.js.map",
+    "main.js": "/reality-cast-landing-page/static/js/main.65476555.chunk.js",
+    "main.js.map": "/reality-cast-landing-page/static/js/main.65476555.chunk.js.map",
     "runtime-main.js": "/reality-cast-landing-page/static/js/runtime-main.fc2883a0.js",
     "runtime-main.js.map": "/reality-cast-landing-page/static/js/runtime-main.fc2883a0.js.map",
     "static/css/2.c0de73ea.chunk.css": "/reality-cast-landing-page/static/css/2.c0de73ea.chunk.css",
-    "static/js/2.c034e1f9.chunk.js": "/reality-cast-landing-page/static/js/2.c034e1f9.chunk.js",
-    "static/js/2.c034e1f9.chunk.js.map": "/reality-cast-landing-page/static/js/2.c034e1f9.chunk.js.map",
+    "static/js/2.3121c06f.chunk.js": "/reality-cast-landing-page/static/js/2.3121c06f.chunk.js",
+    "static/js/2.3121c06f.chunk.js.map": "/reality-cast-landing-page/static/js/2.3121c06f.chunk.js.map",
     "index.html": "/reality-cast-landing-page/index.html",
-    "precache-manifest.b539a45b557b30c324d6cc61d698915a.js": "/reality-cast-landing-page/precache-manifest.b539a45b557b30c324d6cc61d698915a.js",
+    "precache-manifest.d1b344bdb22d57761394da2b8b4f89df.js": "/reality-cast-landing-page/precache-manifest.d1b344bdb22d57761394da2b8b4f89df.js",
     "service-worker.js": "/reality-cast-landing-page/service-worker.js",
     "static/css/2.c0de73ea.chunk.css.map": "/reality-cast-landing-page/static/css/2.c0de73ea.chunk.css.map",
     "static/css/main.aca31963.chunk.css.map": "/reality-cast-landing-page/static/css/main.aca31963.chunk.css.map",
-    "static/js/2.c034e1f9.chunk.js.LICENSE.txt": "/reality-cast-landing-page/static/js/2.c034e1f9.chunk.js.LICENSE.txt",
+    "static/js/2.3121c06f.chunk.js.LICENSE.txt": "/reality-cast-landing-page/static/js/2.3121c06f.chunk.js.LICENSE.txt",
     "static/media/mdb.css": "/reality-cast-landing-page/static/media/arrow_right.8ef6a08c.svg",
     "static/media/all.min.css": "/reality-cast-landing-page/static/media/fa-solid-900.ec763292.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.fc2883a0.js",
     "static/css/2.c0de73ea.chunk.css",
-    "static/js/2.c034e1f9.chunk.js",
+    "static/js/2.3121c06f.chunk.js",
     "static/css/main.aca31963.chunk.css",
-    "static/js/main.ba35ecd9.chunk.js"
+    "static/js/main.65476555.chunk.js"
   ]
 }
