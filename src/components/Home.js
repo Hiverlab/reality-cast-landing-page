@@ -8,7 +8,7 @@ import Pricing1 from './Pricing1';
 import HowItWorks from './HowItWorks';
 import Footer from './Footer';
 
-export default class Tutorial extends Component {
+export default class Home extends Component {
     render() {
         return(
             <div>
