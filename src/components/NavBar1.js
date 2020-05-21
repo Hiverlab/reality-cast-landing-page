@@ -1,9 +1,10 @@
 import React from 'react';
 import { MDBNavbar, MDBNavbarBrand, MDBNavbarNav, MDBNavbarToggler, MDBCollapse } from 'mdbreact';
 import { Container } from 'react-bootstrap';
-import { BrowserRouter as Router } from 'react-router-dom';
+import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import {Nav} from 'react-bootstrap';
 import './navbar.css';
+import Tutorial from './components/Tutorial';
 
 class NavBar extends React.Component {
   constructor(props) {
@@ -39,7 +40,9 @@ class NavBar extends React.Component {
                 <MDBCollapse isOpen={this.state.collapse} navbar>
                   <MDBNavbarNav right>
                         <Nav.Link  id="move-down" href="#pricing">Pricing</Nav.Link>
+                        <Nav.Link id="move-down" as={Link} to="/tutorial" >Tutorial</Nav.Link>
                         <Nav.Link  id="move-down" href="https://www.youtube.com/">Log In</Nav.Link>
+                        
 
                         <button id="navbar-button" type= "button">Sign-Up</button>
                         
@@ -48,6 +51,9 @@ class NavBar extends React.Component {
                 </MDBCollapse>
               </Container>
             </MDBNavbar>
+            <Switch>
+              <Route exact path='/tutorial' component={Tutorial} />
+            </Switch>
           </Router>
         </header>
       </div>
