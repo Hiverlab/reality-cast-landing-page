@@ -4,7 +4,7 @@ import { Container } from 'react-bootstrap';
 import { BrowserRouter as Router, Switch, Route, Link } from 'react-router-dom';
 import {Nav} from 'react-bootstrap';
 import './navbar.css';
-import Tutorial from '/Tutorial';
+import Tutorial from './Tutorial.js';
 
 class NavBar extends React.Component {
   constructor(props) {
