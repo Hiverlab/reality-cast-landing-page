@@ -39,7 +39,7 @@ class NavBar extends React.Component {
                 {!this.state.isWideEnough && <MDBNavbarToggler onClick={this.onClick} />}
                 <MDBCollapse isOpen={this.state.collapse} navbar>
                   <MDBNavbarNav right>
-                        <Nav.Link id="move-down" as={Link} to="/tutorial" >Tutorial</Nav.Link>
+                        <Nav.Link id="move-down" as={Link} to="/reality-cast-landing-page/tutorial" >Tutorial</Nav.Link>
                         <Nav.Link  id="move-down" href="#pricing">Pricing</Nav.Link>
                         <Nav.Link  id="move-down" href="https://www.youtube.com/">Log In</Nav.Link>
                         
@@ -52,7 +52,7 @@ class NavBar extends React.Component {
               </Container>
             </MDBNavbar>
             <Switch>
-              <Route exact path='/tutorial' component={Tutorial} />
+              <Route exact path='/reality-cast-landing-page/tutorial' component={Tutorial} />
             </Switch>
           </Router>
         </header>
