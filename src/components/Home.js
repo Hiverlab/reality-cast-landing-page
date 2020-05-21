@@ -1,12 +1,12 @@
 import React, { Component } from 'react';
 // import NavBar from './components/NavBar.js'
-import Features from './components/Features.js';
-import FeaturedPresentations from './components/FeaturedPresentations';
-import Hero from './components/Hero';
+import Features from './Features.js';
+import FeaturedPresentations from './FeaturedPresentations';
+import Hero from './Hero';
 // import Pricing from './components/Pricing';
-import Pricing1 from './components/Pricing1';
-import HowItWorks from './components/HowItWorks';
-import Footer from './components/Footer';
+import Pricing1 from './Pricing1';
+import HowItWorks from './HowItWorks';
+import Footer from './Footer';
 
 export default class Tutorial extends Component {
     render() {
